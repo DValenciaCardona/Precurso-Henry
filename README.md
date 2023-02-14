@@ -1,2 +1,1 @@
-# Precurso-Henry
-Repositorio de prueba del módolo 2 del precurso de Henry
+prueba de como crear un repositorio y clonarlo desde github a mi pc
